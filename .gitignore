@@ -1,0 +1,19 @@
+#Build artifacts 
+Debug/ 
+Release/ 
+*.elf 
+*.hex 
+*.bin 
+*.map 
+*.o 
+*.su 
+*.d 
+ 
+#Local IDE settings 
+.settings/ 
+.local/ 
+.compile_commands.json 
+ 
+#OS specific 
+Thumbs.db 
+.DS_Store 
